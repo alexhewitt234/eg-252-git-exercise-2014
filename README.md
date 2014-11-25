@@ -1,6 +1,10 @@
 EG-252 Git Exercise
 ===================
 
+790624 Alex Hewitt 
+
+date completed 25/11/14
+
 An assessed exercise which demonstrates that you have achieved basic competence in using Git for version control.
 See Lab 4 on Blackboard for the accompanying instructions.
 
